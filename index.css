@@ -1,0 +1,35 @@
+body {
+    background-color: #494d5f;
+}
+
+header {
+    text-align: center;
+}
+
+.mkgee-photo {
+    width: 300px;
+}
+
+#facts-section h2 {
+    text-decoration: underline;
+    text-align: left;
+}
+
+#facts-section table{
+   text-align: center;
+}
+
+#quotes-section h2 {
+    text-decoration: underline;
+}
+
+#quotes-section blockquote {
+    font-style: italic;
+}
+
+#links-section h2 {
+    text-decoration: underline;
+    text-align: left;
+}
+
+
